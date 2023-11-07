@@ -7,7 +7,7 @@ Frontend Developer
 - **GitHub:** https://github.com/SiarheiSR
 - **Discord:** SSR(@SiarheiSR)
 - **Email:** RSS.FE.SSR@gmail.com
-- **LinkedIn:** 
+- **LinkedIn:** www.linkedin.com/in/siarhei-rudenka-287448291
 - **Phone:** +375 
 
 ## English
